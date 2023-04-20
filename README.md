@@ -1,9 +1,6 @@
-**Привет!**
+**Привет!** **Я Захаренко Андрей, разработчик Java.**
 
-**Я захаренко Андрей, разработчик Java.**
-__________________________
-
-### Контакты:
+### Мои контакты:
 
 [Telegram](https://t.me/andreyz28)
 
@@ -11,11 +8,11 @@ E-mail: andreyzaharenko18@yandex.ru
 
 [CV](https://docs.google.com/document/d/1_89KMi2DtTHqNuC7x_tuuHvX73wh1tC7Nc_NZEakfR8/edit?usp=sharing)
 
-__________________________
+____________________
 
 ## Примеры моих работ:
 - [Курсовой проект «Сервис перевода денег»](https://github.com/Kotman242/MoneyTransferService)
-- [«Сервис окращение ссылок»](https://github.com/Kotman242/linkShorter)
+- [«Сервис сокращения ссылок»](https://github.com/Kotman242/linkShorter)
 
 ## Сертификаты:
 
